@@ -3,7 +3,8 @@
   "errMessage": "成功",
   "data": {
     "versionCode": 1,
-     "versionName": "2024.12.27.11.13.02",
-     "url":"https://raw.githubusercontent.com/doisx45/Calendar/refs/heads/main/version_info.txt"
+     "versionName": "2024.12.27.13.47.56",
+     "description": "优化了体验",
+     "url":"https://raw.githubusercontent.com/doisx45/Calendar/refs/heads/main/dusk_release_2024.12.27.11.47.56.apk"
   }
 }
