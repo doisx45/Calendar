@@ -1,5 +1,9 @@
 {
-  "versionCode": "1",
-  "versionName": "2024.12.27.11.13.02"
-  "url":"https://raw.githubusercontent.com/doisx45/Calendar/refs/heads/main/version_info.txt"
+  "errCode": 0,
+  "errMessage": "成功",
+  "data": {
+    "versionCode": 1,
+     "versionName": "2024.12.27.11.13.02",
+     "url":"https://raw.githubusercontent.com/doisx45/Calendar/refs/heads/main/version_info.txt"
+  }
 }
